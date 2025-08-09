@@ -15,3 +15,6 @@ venv/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+
+iterative_video_transformation_output
