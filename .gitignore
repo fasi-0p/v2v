@@ -16,6 +16,6 @@ venv/
 .DS_Store
 Thumbs.db
 
-
+input_videos
 iterative_video_transformation_output
 main2.ipynb
